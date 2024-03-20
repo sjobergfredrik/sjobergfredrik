@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sjobergfredrik
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on a tool for meassure usability and technical SEO
+- 💞️ I’m looking to collaborate on how to use GenAI in design processes
 - 📫 Reach out on Linkedin
 
 <!---
